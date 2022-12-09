@@ -14,4 +14,6 @@ Data Modeling
 3)create a master-detail relationship
 4)then create record 
 
-3. 
+3. work with schema Builder
+
+create a reationship and object or filed see the schema Builder  
